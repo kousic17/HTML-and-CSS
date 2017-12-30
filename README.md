@@ -5,4 +5,4 @@
 <ul>
   <li><h5>style.css <sub> for background gradient </h5></li>
 </ul>
-<h2>Preview <a href="file:///C:/Users/Kousic/Documents/Website/index.html"> Click here</a></h2>
+<h2>Preview <a href="https://github.com/kousic17/HTML-and-CSS"> Click here</a></h2>
